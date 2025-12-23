@@ -90,9 +90,9 @@ No need to edit files manually.
 
 Start the bot manually (if not auto-run):
 
-`bash
+```bash
 yarn start
-`
+```
 
 ---
 
@@ -164,6 +164,5 @@ If this project helped you:
 - ⭐ Star the repository  
 - 🧑‍💻 Contribute improvements  
 - 🐞 Report issues  
-`
 
 ---
