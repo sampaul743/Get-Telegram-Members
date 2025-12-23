@@ -97,8 +97,7 @@ No need to edit files manually.
 Start the bot manually (if not auto-run):
 
 ```bash
-yarn start
-```
+cd Get-Telegram-Members && yarn start```
 
 ---
 
