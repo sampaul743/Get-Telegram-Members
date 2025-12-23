@@ -1,13 +1,14 @@
 {
-  "name": "gramjs-bot-id",
+  "name": "gramjs-member-adder",
   "version": "1.0.0",
-  "description": "GramJS bot that add users by Telegram ID",
+  "description": "GramJS Telegram bot to add members by ID",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "postinstall": "node index.js"
   },
   "dependencies": {
-    "telegram": "^2.20.11"
+    "telegram": "^2.20.11",
+    "inquirer": "^9.2.7"
   }
 }
