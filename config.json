@@ -1,0 +1,8 @@
+{
+  "apiId": 123456,
+  "apiHash": "your_api_hash_here",
+  "session": "",
+  "targetGroup": "https://t.me/yourgroup",
+  "delay": 10000,
+  "dailyLimit": 50
+}
