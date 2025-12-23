@@ -1,4 +1,5 @@
-## GramJS Telegram Bot (ID-based Adder)
+## GramJS Telegram Bot 
+## (ID-based Adder)
 
 A Telegram bot built with GramJS that invites users into a group using their Telegram IDs.  
 Designed to run smoothly in Termux (Android/Linux) with Yarn for dependency management.
@@ -8,7 +9,7 @@ Designed to run smoothly in Termux (Android/Linux) with Yarn for dependency mana
 📦 Prerequisites
 
 - A Telegram account
-- API credentials from my.telegram.org
+- API credentials from https://my.telegram.org
   - apiId
   - apiHash
 - Termux (Android) or any Linux shell
