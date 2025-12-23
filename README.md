@@ -68,7 +68,7 @@ cd gramjs-member-adder
 3️⃣ Install Dependencies
 
 ```bash
-yarn install --ignore-optional
+yarn install
 ```
 
 > ⚡ The bot auto-runs after install thanks to the postinstall script.
