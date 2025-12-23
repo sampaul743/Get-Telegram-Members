@@ -1,7 +1,8 @@
+// index.js
 import fs from "fs";
 import readline from "readline";
 import { TelegramClient } from "telegram";
-import { StringSession } from "telegram/sessions";
+import { StringSession } from "telegram/sessions/index.js"; // explicit file import
 import { Api } from "telegram";
 
 // dynamic import for inquirer (ESM)
